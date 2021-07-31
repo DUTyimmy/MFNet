@@ -18,7 +18,7 @@ link: https://pan.baidu.com/s/1omTCChQFWwNFhQ79AVD8rg.    code: oipw
 ## Testing data
 link: https://pan.baidu.com/s/1PBzDP1Hnf3RIvpARmxn2yA.    code: oipw
 
-## 1st training stage (pseudo labels)
+## 1st training stage-
 please refer to :
 
 We also upload ready-made pseudo labels in **Training data**, you can directly use our offered two kinds of pseudo labels for convenience. CAMs are also presented if you needed.
