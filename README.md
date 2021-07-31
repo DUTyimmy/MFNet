@@ -38,7 +38,7 @@ MF_code -- data -- DUTS-Train -- image -- 10553 samples
                 
                                  -- label1_0 -- 10553 pseudo labels
 ```
-### 2, training
+#### 2, training
 ```Run main.py```
 
 ## Testing
