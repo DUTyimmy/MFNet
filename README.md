@@ -48,3 +48,7 @@ You need to configure your desired testset in ```--test_root```.  Here you can a
 
 ## Contact us
 If you have any questions, please contact us [jiangnanyimi@163.com].
+
+## Acknowledge
+Thanks to pioneering works:
+[IRNet]{https://github.com/jiwoon-ahn/irn}: Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations.
