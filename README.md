@@ -25,7 +25,7 @@ We also upload ready-made pseudo labels in **Training data**, you can directly u
 
 ## 2nd training stage
 
-### 1, Setting the training data to the proper root:
+### 1, Setting the training data to the proper root as follows:
 
 ```
 MF_code -- data -- DUTS-Train -- image -- 10553 samples
@@ -36,3 +36,7 @@ MF_code -- data -- DUTS-Train -- image -- 10553 samples
                 
                                  -- label1_0 -- 10553 pseudo labels
 ```
+### 2,```Run main.py```
+
+## Test 
+```Run test_code.py```
