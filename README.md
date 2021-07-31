@@ -26,7 +26,7 @@ We also upload ready-made pseudo labels in **Training data**, you can directly u
 
 ### 1, setting the training data to the proper root:
 
-'''
+```
 MF_code -- data -- DUTS-Train -- image -- 10553 samples
 
                 -- ECSSD (not necessary) 
@@ -34,4 +34,4 @@ MF_code -- data -- DUTS-Train -- image -- 10553 samples
                 -- pseudo labels -- label0_0 -- 10553 pseudo labels
                 
                                  -- label1_0 -- 10553 pseudo labels
-'''
+```
