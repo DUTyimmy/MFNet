@@ -14,11 +14,17 @@ Yongri Piao, Jian Wang, Miao Zhang and Huchuan Lu.  IIAU-OIP Lab.
 
 ## Training data
 
-## Training data
+## Testing data
 
 
-## 1st training stage
+## 1st training stage (pseudo labels)
 please refer to :
 
-you can also directly use our offered two kinds of pseudo labels for convenience. CAMs are also presented if you needed.
+We also upload ready-made pseudo labels in **Training data**, you can directly use our offered two kinds of pseudo labels for convenience. CAMs are also presented if you needed.
 
+## 2nd training stage
+
+### 1, setting the training data to the proper root:
+MF_code -- data -- DUTS-Train -- image -- 10553 samples
+                -- ECSSD (not necessary) 
+                -- pseudo labels -- 
