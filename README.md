@@ -14,3 +14,11 @@ Yongri Piao, Jian Wang, Miao Zhang and Huchuan Lu.  IIAU-OIP Lab.
 
 ## Training data
 
+## Training data
+
+
+## 1st training stage
+please refer to :
+
+you can also directly use our offered two kinds of pseudo labels for convenience. CAMs are also presented if you needed.
+
