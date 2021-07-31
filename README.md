@@ -42,4 +42,4 @@ MF_code -- data -- DUTS-Train -- image -- 10553 samples
 ## Test 
 ```Run test_code.py```
 
-You need to configure your target testset in ```--test_root```.
+You need to configure your desired testset in ```--test_root```. Here you can also perform PAMR and CRF for a better saliency maps if you want, by setting ```--pamr``` and ```--crf``` to True. Noting that the results in our paper do not adopt these post-process for a fair comparison.
