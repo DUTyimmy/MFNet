@@ -56,7 +56,7 @@ link: https://pan.baidu.com/s/1IRTEaEicYaCJ2TYjZV1lZA.    code: oipw
 link: https://pan.baidu.com/s/1QvZK91a1cyAYAan2s9quBw.    code: oipw
 
 ## Contact me
-If you have any questions, please contact me [jiangnanyimi@163.com].
+If you have any questions, please [contact me](jiangnanyimi@163.com).
 
 ## Acknowledge
 Thanks to pioneering helpful works:
