@@ -27,7 +27,7 @@ Case2: We also upload ready-made pseudo labels in **Training data**, you can dir
 
 ### 2nd training stage
 
-### 1, Setting the training data to the proper root as follows:
+#### 1, setting the training data to the proper root as follows:
 
 ```
 MF_code -- data -- DUTS-Train -- image -- 10553 samples
@@ -38,10 +38,10 @@ MF_code -- data -- DUTS-Train -- image -- 10553 samples
                 
                                  -- label1_0 -- 10553 pseudo labels
 ```
-### 2, Training
+### 2, training
 ```Run main.py```
 
-## Test 
+## Testing
 ```Run test_code.py```
 
-You need to configure your desired testset in ```--test_root```. Here you can also perform PAMR and CRF on saliency maps for a furthur refinements if you want, by setting ```--pamr``` and ```--crf``` to True. Noting that the results in our paper do not adopt these post-process for a fair comparison.
+You need to configure your desired testset in ```--test_root```.  Here you can also perform PAMR and CRF on saliency maps for a furthur refinements if you want, by setting ```--pamr``` and ```--crf``` to True. Noting that the results in our paper do not adopt these post-process for a fair comparison.
