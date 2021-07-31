@@ -13,6 +13,7 @@ Yongri Piao, Jian Wang, Miao Zhang and Huchuan Lu.  IIAU-OIP Lab.
   - other Prerequisites can be found in requirments.txt 
 
 ## Training data
+[link]{https://pan.baidu.com/s/1omTCChQFWwNFhQ79AVD8rg} code:oipw
 
 ## Testing data
 
@@ -24,7 +25,7 @@ We also upload ready-made pseudo labels in **Training data**, you can directly u
 
 ## 2nd training stage
 
-### 1, setting the training data to the proper root:
+### 1, Setting the training data to the proper root:
 
 ```
 MF_code -- data -- DUTS-Train -- image -- 10553 samples
