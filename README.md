@@ -9,4 +9,8 @@ Yongri Piao, Jian Wang, Miao Zhang and Huchuan Lu.  IIAU-OIP Lab.
   - Windows 10
   - Torch 1.8.1
   - CUDA 10.0
-  - python 3.7.4
+  - Python 3.7.4
+  - other Prerequisites can be found in requirments.txt 
+
+## Training data
+
