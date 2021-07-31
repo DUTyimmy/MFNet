@@ -46,6 +46,13 @@ MF_code -- data -- DUTS-Train -- image -- 10553 samples
 
 You need to configure your desired testset in ```--test_root```.  Here you can also perform PAMR and CRF on saliency maps for a furthur refinements if you want, by setting ```--pamr``` and ```--crf``` to True. Noting that the results in our paper do not adopt these post-process for a fair comparison.
 
+## Saliency maps & trained checkpoint
+We offer our saliency maps and checkpoints on various backbones (including DenseNet-169, ResNet-101, ResNet-50 and VGG-16) for more convenient comparison in the future. the results in our paper are all come from the model based on DenseNet-169, and we also highly recommend the following researchers adopt same backbone for a more fair and convenient comparison.
+### Saliency maps
+link: https://pan.baidu.com/s/1IRTEaEicYaCJ2TYjZV1lZA.    code: oipw
+### Checkpoints
+link: https://pan.baidu.com/s/1QvZK91a1cyAYAan2s9quBw.    code: oipw
+
 ## Contact me
 If you have any questions, please contact me [jiangnanyimi@163.com].
 
