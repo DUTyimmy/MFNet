@@ -11,7 +11,7 @@ Source code for "MFNet: Multi-filter Directive Network for Weakly Supervised Sal
   - Torch 1.8.1
   - CUDA 10.0
   - Python 3.7.4
-  - other Prerequisites can be found in requirments.txt 
+  - other environment requirment can be found in requirments.txt 
 
 ### training data
 link: https://pan.baidu.com/s/1omTCChQFWwNFhQ79AVD8rg.    code: oipw
