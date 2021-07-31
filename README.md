@@ -13,10 +13,10 @@ Yongri Piao, Jian Wang, Miao Zhang and Huchuan Lu.  IIAU-OIP Lab.
   - other Prerequisites can be found in requirments.txt 
 
 ## Training data
-link: https://pan.baidu.com/s/1omTCChQFWwNFhQ79AVD8rg >>code:oipw
+link: https://pan.baidu.com/s/1omTCChQFWwNFhQ79AVD8rg.    code:oipw
 
 ## Testing data
-
+link: https://pan.baidu.com/s/1PBzDP1Hnf3RIvpARmxn2yA.    code:oipw
 
 ## 1st training stage (pseudo labels)
 please refer to :
