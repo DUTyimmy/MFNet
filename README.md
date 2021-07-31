@@ -1,5 +1,5 @@
 # MFNet
-source code for "MFNet: Multi-filter Directive Network for Weakly Supervised Salient Object Detection", accepted in ICCV-2021, poster.
+Source code for "MFNet: Multi-filter Directive Network for Weakly Supervised Salient Object Detection", accepted in ICCV-2021, poster.
 
 Yongri Piao, Jian Wang, Miao Zhang and Huchuan Lu.  IIAU-OIP Lab.
 
@@ -15,7 +15,7 @@ Yongri Piao, Jian Wang, Miao Zhang and Huchuan Lu.  IIAU-OIP Lab.
 ## Training data
 link: https://pan.baidu.com/s/1omTCChQFWwNFhQ79AVD8rg.    code: oipw
 
-## Testing data
+## Testing datasets
 link: https://pan.baidu.com/s/1PBzDP1Hnf3RIvpARmxn2yA.    code: oipw
 
 ## 1st training stage-
