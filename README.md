@@ -25,6 +25,7 @@ We also upload ready-made pseudo labels in **Training data**, you can directly u
 ## 2nd training stage
 
 ### 1, setting the training data to the proper root:
+
 MF_code -- data -- DUTS-Train -- image -- 10553 samples
 
                 -- ECSSD (not necessary) 
