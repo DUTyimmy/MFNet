@@ -52,5 +52,5 @@ If you have any questions, please contact us [jiangnanyimi@163.com].
 ## Acknowledge
 Thanks to pioneering works:
 
-  - [IRNet](https://github.com/jiwoon-ahn/irn): Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations, CVPR2019.
-  - [MSW](https://github.com/zengxianyu/mws/tree/new) Multi-source weak supervision for saliency detection, CVPR2019
+  - [IRNet](https://github.com/jiwoon-ahn/irn):  Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations, CVPR2019, by Jiwoon Ahn et al.
+  - [MSW](https://github.com/zengxianyu/mws/tree/new):  Multi-source weak supervision for saliency detection, CVPR2019, by Yu Zeng et al.
