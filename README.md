@@ -6,5 +6,7 @@ Yongri Piao, Jian Wang, Miao Zhang and Huchuan Lu.  IIAU-OIP Lab.
 ![image](https://github.com/DUTyimmy/MFNet/blob/main/fig/overall%20framework.png)
 
 ## Prerequisites
-  - test1
-  - test2
+  - Windows 10
+  - Torch 1.8.1
+  - CUDA 10.0
+  - python 3.7.4
