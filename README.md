@@ -41,4 +41,5 @@ MF_code -- data -- DUTS-Train -- image -- 10553 samples
 
 ## Test 
 ```Run test_code.py```
+
 You need to configure your target testset in ```--test_root```.
