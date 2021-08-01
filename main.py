@@ -17,7 +17,6 @@ def main():
     # from utils.crf import crf
     from utils.imsave import imsave
     from utils.pamr import BinaryPamr
-    
     from utils.datainit import traindatainit
     from model.MFNet_densenet import MFNet
     from torch.utils.data import DataLoader
