@@ -17,7 +17,7 @@ def main():
     # from utils.crf import crf
     from utils.imsave import imsave
     from utils.pamr import BinaryPamr
-    from utils.slic import run_slic_with_crf
+    
     from utils.datainit import traindatainit
     from model.MFNet_densenet import MFNet
     from torch.utils.data import DataLoader
@@ -53,7 +53,6 @@ def main():
     model_sal = model_sal.cuda()
 
     # -------------------------------------------------- training -------------------------------------------------- #
-
     
     print('\n[ Training a saliency network using pseudo labels. ]\n')
     for i in range(1, (args.sal_stage*2)):
@@ -123,6 +122,7 @@ def main():
             torch.cuda.empty_cache()
 
             # Performing superpixel-wise refinements as well as CRF on the generated saliency maps.
+            from utils.slic import run_slic_with_crf
             print('\nInferring superpixel-wise pseudo labels .....   \n[  ', end='')
             start_time = time.time()
             run_slic_with_crf(img_root='data/DUTS-train/image',
