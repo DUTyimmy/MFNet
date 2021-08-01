@@ -23,7 +23,7 @@ link: https://pan.baidu.com/s/1PBzDP1Hnf3RIvpARmxn2yA.    code: oipw
 ### 1st training stage
 Case1: please refer to [this repository](https://github.com/DUTyimmy/generatePGT).
 
-Case2: We also upload ready-made pseudo labels in **Training data**, you can directly use our offered two kinds of pseudo labels for convenience. CAMs are also presented if you needed.
+Case2: We also upload ready-made pseudo labels in **Training data** (the link above), you can directly use our offered two kinds of pseudo labels for convenience. CAMs are also presented if you needed.
 
 ### 2nd training stage
 
