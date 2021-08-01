@@ -41,6 +41,8 @@ MF_code -- data -- DUTS-Train -- image -- 10553 samples
 #### 2, training
 ```Run main.py```
 
+Here you can set ECCSD dataset as validation set for optimal results by setting ```--val``` to ```True```, of course it is not necessary in our work.
+
 ## Testing
 ```Run test_code.py```
 
