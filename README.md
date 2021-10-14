@@ -46,7 +46,7 @@ Here you can set ECCSD dataset as validation set for optimal results by setting 
 ## Testing
 ```Run test_code.py```
 
-You need to configure your desired testset in ```--test_root```.  Here you can also perform PAMR and CRF on saliency maps for a furthur refinements if you want, by setting ```--pamr``` and ```--crf``` to True. Noting that the results in our paper do not adopt these post-process for a fair comparison.
+You need to configure your desired testset in ```--test_root```.  Here you can also perform PAMR and CRF on saliency maps for a furthur refinements if you want, by setting ```--pamr``` and ```--crf``` to True. **Noting** that the results in our paper do not adopt these post-process for a fair comparison.
 
 The evaluation code can be found in [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
 
