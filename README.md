@@ -1,5 +1,5 @@
 # MFNet
-Source code for "**MFNet: Multi-filter Directive Network for Weakly Supervised Salient Object Detection**", accepted in ICCV-2021, poster.
+Source code for "**MFNet: Multi-filter Directive Network for Weakly Supervised Salient Object Detection**", accepted in ICCV-2021. The paper's PDF can be found in [Here](https://openaccess.thecvf.com/content/ICCV2021/papers/Piao_MFNet_Multi-Filter_Directive_Network_for_Weakly_Supervised_Salient_Object_Detection_ICCV_2021_paper.pdf).
 
 [Yongri Piao](http://ice.dlut.edu.cn/yrpiao/), Jian Wang, Miao Zhang and [Huchuan Lu](http://ice.dlut.edu.cn/lu/publications.html).  IIAU-OIP Lab.
 
@@ -21,7 +21,7 @@ link: https://pan.baidu.com/s/1PBzDP1Hnf3RIvpARmxn2yA.    code: oipw
 
 ## Training
 ### 1st training stage
-Case1: please refer to [this repository](https://github.com/DUTyimmy/generatePGT).
+Case1: Please refer to [this repository](https://github.com/DUTyimmy/generatePGT).
 
 Case2: We also upload ready-made pseudo labels in **Training data** (the link above), you can directly use our offered two kinds of pseudo labels for convenience. CAMs are also presented if you needed.
 
