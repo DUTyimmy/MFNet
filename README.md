@@ -1,7 +1,7 @@
 # MFNet
 Source code for "**MFNet: Multi-filter Directive Network for Weakly Supervised Salient Object Detection**", accepted in ICCV-2021. The paper's PDF can be found in [Here](https://openaccess.thecvf.com/content/ICCV2021/papers/Piao_MFNet_Multi-Filter_Directive_Network_for_Weakly_Supervised_Salient_Object_Detection_ICCV_2021_paper.pdf).
 
-[Yongri Piao](http://ice.dlut.edu.cn/yrpiao/), Jian Wang, Miao Zhang and [Huchuan Lu](http://ice.dlut.edu.cn/lu/publications.html).  IIAU-OIP Lab.
+[Yongri Piao](http://ice.dlut.edu.cn/yrpiao/), Jian Wang (co-first), Miao Zhang and [Huchuan Lu](http://ice.dlut.edu.cn/lu/publications.html).  IIAU-OIP Lab.
 
 ![image](https://github.com/DUTyimmy/MFNet/blob/main/fig/overall%20framework.png)
 
@@ -65,3 +65,16 @@ Thanks to pioneering helpful works:
 
   - [MSW](https://github.com/zengxianyu/mws/tree/new):  Multi-source weak supervision for saliency detection, CVPR2019, by Yu Zeng et al.
   - [SSSS](https://github.com/visinf/1-stage-wseg):  Single-stage Semantic Segmentation from Image Labels, CVPR2020, by Nikita Araslanov et al.
+
+## Citation
+We really hope this repo can contribute the conmunity, and if you find this work useful, please use the following citation:
+```
+@InProceedings{Piao_2021_ICCV,
+    author    = {Piao, Yongri and Wang, Jian and Zhang, Miao and Lu, Huchuan},
+    title     = {MFNet: Multi-Filter Directive Network for Weakly Supervised Salient Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {4136-4145}
+}
+```
